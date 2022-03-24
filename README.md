@@ -13,10 +13,9 @@ Desafio de um Sumário provido pela Frontend Mentor
 ### Screenshots
 
 Screenshot do site vista por Desktop e por Mobile
-![mobile-design](https://user-images.githubusercontent.com/101153511/159828303-b320fc55-f61a-45d6-8cd8-e3e17f1dbe08.jpg)
 ![active-states](https://user-images.githubusercontent.com/101153511/159828309-6010fde2-a98b-4c0b-8511-a19e484e0413.jpg)
 ![desktop-design](https://user-images.githubusercontent.com/101153511/159828310-d38c8092-46e2-4b85-be9e-e44ef3d8ee83.jpg)
-
+![mobile-design](https://user-images.githubusercontent.com/101153511/159828303-b320fc55-f61a-45d6-8cd8-e3e17f1dbe08.jpg)
 
 ## Processo
 
